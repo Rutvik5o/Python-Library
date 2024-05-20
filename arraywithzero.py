@@ -6,7 +6,7 @@ n2=np.zeros((10,10))
 
 print(n1)
 
-print(n2)
+print(n2) 
 
 
 #you can also intialize with a particular number
